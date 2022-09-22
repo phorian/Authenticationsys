@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663257421 source:c:\users\a\documents\cyberdefense practice\c\authenticationsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
